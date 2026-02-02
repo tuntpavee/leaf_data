@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Big-leaf', 'Small-leaf']
+
+roboflow:
+  workspace: tunt-tb84u
+  project: leaf_detection-dkm2w
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tunt-tb84u/leaf_detection-dkm2w/dataset/1
