@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 16
+names: ['- annotate- and create datasets', '- collaborate with your team on computer vision projects', '- collect - organize images', '- export- train- and deploy computer vision models', '- understand and search unstructured image data', '- use active learning to improve your dataset over time', '------------------------------', 'Roboflow is an end-to-end computer vision platform that helps you', 'This dataset was exported via roboflow.com on September 22- 2024 at 8-37 PM GMT', 'apple', 'fruits-segmentation - v8 2024-09-22 8-35pm', 'kiwi', 'orange', 'pear', 'strawberry', 'tomato']
+
+roboflow:
+  workspace: tunt-tb84u
+  project: fruit-b2sy0-m0f00
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tunt-tb84u/fruit-b2sy0-m0f00/dataset/1
